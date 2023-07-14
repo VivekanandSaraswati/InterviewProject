@@ -2,7 +2,7 @@
 @Author: Vivekanand Saraswati
 @Author Email: vivekanand.saraswati@gmail.com
 
-#Instructions - 
+##**Instructions - **
 Create Database using mysql or PhpMyAdmin
 Import table via db.sql
 Change below Database details in app/Config/Database.php from line no 29
@@ -13,7 +13,10 @@ Change below Database details in app/Config/Database.php from line no 29
 
 #Run Project
 Open terminal/cmd and go to folder and type below command
-#php spark serve
+
+**php spark serve**
+
+
 It will run project on http://localhost:8080 if port 8080 is open
 
 ## Server Requirements
