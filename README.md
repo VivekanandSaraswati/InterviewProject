@@ -1,11 +1,15 @@
-# Interview Project developed in CI4
+## Interview Project developed in CI4
 @Author: Vivekanand Saraswati
+
 @Author Email: vivekanand.saraswati@gmail.com
 
 ##**Instructions - **
 Create Database using mysql or PhpMyAdmin
+
 Import table via db.sql
+
 Change below Database details in app/Config/Database.php from line no 29
+
 'hostname' => 'your_DB_host_name', #for local it is localhost
 'username' => 'your_DB_username',
 'password' => 'your_DB_password',
