@@ -3,7 +3,7 @@
 
 @Author Email: vivekanand.saraswati@gmail.com
 
-##**Instructions - **
+## Instructions -
 Create Database using mysql or PhpMyAdmin
 
 Import table via db.sql
