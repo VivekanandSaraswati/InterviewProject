@@ -11,17 +11,20 @@ Import table via db.sql
 Change below Database details in app/Config/Database.php from line no 29
 
 'hostname' => 'your_DB_host_name', #for local it is localhost
+
 'username' => 'your_DB_username',
+
 'password' => 'your_DB_password',
+
 'database' => 'your_DB_Name',
 
-#Run Project
+## To Run Project
 Open terminal/cmd and go to folder and type below command
 
 **php spark serve**
 
 
-It will run project on http://localhost:8080 if port 8080 is open
+It will run project on http://localhost:8080 if port 8080 is unused otherwise it will use new port
 
 ## Server Requirements
 
