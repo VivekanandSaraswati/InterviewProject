@@ -1,0 +1,164 @@
+CRITICAL - 2023-07-13 21:07:31 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH/CodeIgniter.php on line 226.
+ 1 SYSTEMPATH/CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH/spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-07-13 21:07:56 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH/CodeIgniter.php on line 226.
+ 1 SYSTEMPATH/CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH/spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-07-13 21:11:36 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH/CodeIgniter.php on line 226.
+ 1 SYSTEMPATH/CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH/spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-07-13 21:14:57 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH/CodeIgniter.php on line 226.
+ 1 SYSTEMPATH/CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH/spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-07-13 21:15:29 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH/CodeIgniter.php on line 226.
+ 1 SYSTEMPATH/CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH/spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-07-13 21:15:56 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH/CodeIgniter.php on line 226.
+ 1 SYSTEMPATH/CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH/spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-07-13 21:16:10 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH/CodeIgniter.php on line 226.
+ 1 SYSTEMPATH/CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH/spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-07-13 18:12:37 --> Invalid file: "index.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Upload.php(18): view()
+ 4 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Upload->importData()
+ 5 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/vivekanands/Documents/ci/codeigniter4-framework-e392123/public/index.php')
+CRITICAL - 2023-07-13 18:12:50 --> Invalid file: "index.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Upload.php(18): view()
+ 4 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Upload->importData()
+ 5 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/vivekanands/Documents/ci/codeigniter4-framework-e392123/public/index.php')
+CRITICAL - 2023-07-13 18:13:14 --> Invalid file: "index.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Upload.php(18): view()
+ 4 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Upload->importData()
+ 5 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/vivekanands/Documents/ci/codeigniter4-framework-e392123/public/index.php')
+CRITICAL - 2023-07-13 18:14:42 --> Invalid file: "index.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Upload.php(18): view()
+ 4 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Upload->importData()
+ 5 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/vivekanands/Documents/ci/codeigniter4-framework-e392123/public/index.php')
+CRITICAL - 2023-07-13 18:15:05 --> Invalid file: "index.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Upload.php(18): view()
+ 4 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Upload->importData()
+ 5 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/vivekanands/Documents/ci/codeigniter4-framework-e392123/public/index.php')
+CRITICAL - 2023-07-13 18:18:27 --> Undefined variable $data
+in APPPATH/Views/upload_page.php on line 25.
+ 1 APPPATH/Views/upload_page.php(25): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(224): include('/home/vivekanands/Documents/ci/codeigniter4-framework-e392123/app/Views/upload_page.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Upload.php(18): view()
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Upload->importData()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/vivekanands/Documents/ci/codeigniter4-framework-e392123/public/index.php')
+CRITICAL - 2023-07-13 18:18:35 --> Undefined variable $data
+in APPPATH/Views/upload_page.php on line 25.
+ 1 APPPATH/Views/upload_page.php(25): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(224): include('/home/vivekanands/Documents/ci/codeigniter4-framework-e392123/app/Views/upload_page.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Upload.php(9): view()
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Upload->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/vivekanands/Documents/ci/codeigniter4-framework-e392123/public/index.php')
+CRITICAL - 2023-07-13 18:18:37 --> Undefined variable $data
+in APPPATH/Views/upload_page.php on line 25.
+ 1 APPPATH/Views/upload_page.php(25): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(224): include('/home/vivekanands/Documents/ci/codeigniter4-framework-e392123/app/Views/upload_page.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Upload.php(9): view()
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Upload->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/vivekanands/Documents/ci/codeigniter4-framework-e392123/public/index.php')
+CRITICAL - 2023-07-13 18:23:50 --> Undefined variable $data
+in APPPATH/Views/upload_page.php on line 25.
+ 1 APPPATH/Views/upload_page.php(25): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(224): include('/home/vivekanands/Documents/ci/codeigniter4-framework-e392123/app/Views/upload_page.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Upload.php(18): view()
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Upload->importData()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/vivekanands/Documents/ci/codeigniter4-framework-e392123/public/index.php')
+CRITICAL - 2023-07-13 18:24:03 --> Undefined variable $data
+in APPPATH/Views/upload_page.php on line 25.
+ 1 APPPATH/Views/upload_page.php(25): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(224): include('/home/vivekanands/Documents/ci/codeigniter4-framework-e392123/app/Views/upload_page.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Upload.php(9): view()
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Upload->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/vivekanands/Documents/ci/codeigniter4-framework-e392123/public/index.php')
+CRITICAL - 2023-07-13 18:24:05 --> Undefined variable $data
+in APPPATH/Views/upload_page.php on line 25.
+ 1 APPPATH/Views/upload_page.php(25): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(224): include('/home/vivekanands/Documents/ci/codeigniter4-framework-e392123/app/Views/upload_page.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Upload.php(9): view()
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Upload->index()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/vivekanands/Documents/ci/codeigniter4-framework-e392123/public/index.php')
+CRITICAL - 2023-07-13 18:57:27 --> Class "App\Controllers\BookModel" not found
+in APPPATH/Controllers/Upload.php on line 46.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\Upload->importData()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/vivekanands/Documents/ci/codeigniter4-framework-e392123/public/index.php')
